@@ -1,1 +1,2 @@
-Hello World, this my first message to commit and push to github.
+Hello World, this my first message to commit and push to github. 
+I added one small change.
