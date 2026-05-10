@@ -1,2 +1,3 @@
 Hello World, this my first message to commit and push to github. 
 I added one small change.
+Thor is being left out of the README
